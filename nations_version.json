@@ -1,8 +1,5 @@
 {
   "co.pactplatform.nations.development": {
-    "minVersionName": "2.0.0"
-  },
-  "com.nationsinsurance.development": {
-    "minVersionName": "2.0.0"
+    "minVersionName": "2.3.0"
   }
 }
