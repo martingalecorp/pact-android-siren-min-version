@@ -1,14 +1,8 @@
 {
   "co.pactplatform.nations.staging": {
-    "minVersionName": "2.2.0"
+    "minVersionName": "2.3.0"
   },
   "co.pactplatform.nations.production": {
-    "minVersionName": "2.2.0"
-  },
-  "com.nationsinsurance.staging": {
-    "minVersionName": "2.2.0"
-  },
-  "com.nationsinsurance.production": {
-    "minVersionName": "2.2.0"
+    "minVersionName": "2.3.0"
   }
 }
