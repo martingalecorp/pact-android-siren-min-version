@@ -1,8 +1,8 @@
 {
   "co.pactplatform.onward.staging": {
-    "minVersionName": "0.0.0"
+    "minVersionName": "1.0.2"
   },
   "co.pactplatform.nations.production": {
-    "minVersionName": "0.0.0"
+    "minVersionName": "1.0.2"
   }
 }
