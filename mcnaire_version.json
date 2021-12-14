@@ -1,0 +1,8 @@
+{
+  "co.pactplatform.mcnaire.staging": {
+    "minVersionName": "0.0.0"
+  },
+  "co.pactplatform.mcnaire.production": {
+    "minVersionName": "0.0.0"
+  }
+}
