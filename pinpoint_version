@@ -1,0 +1,8 @@
+{
+  "co.pactplatform.pinpoint.staging": {
+    "minVersionName": "0.0.0"
+  },
+  "co.pactplatform.pinpoint.production": {
+    "minVersionName": "0.0.0"
+  }
+}
