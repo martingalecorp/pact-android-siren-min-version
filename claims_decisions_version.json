@@ -1,0 +1,8 @@
+{
+  "co.pactplatform.claimsdecisions.staging": {
+    "minVersionName": "0.0.0"
+  },
+  "co.pactplatform.claimsdecisions.production": {
+    "minVersionName": "0.0.0"
+  }
+}
