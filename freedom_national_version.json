@@ -1,0 +1,8 @@
+{
+  "co.pactplatform.freedomnational.staging": {
+    "minVersionName": "0.0.0"
+  },
+  "co.pactplatform.freedomnational.production": {
+    "minVersionName": "0.0.0"
+  }
+}
