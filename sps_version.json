@@ -1,0 +1,8 @@
+{
+  "co.pactplatform.sps.staging": {
+    "minVersionName": "0.0.0"
+  },
+  "co.pactplatform.sps.production": {
+    "minVersionName": "0.0.0"
+  }
+}
